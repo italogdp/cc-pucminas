@@ -15,14 +15,5 @@
          printf("O valor pago eh:%.2f.\n",valor_pago);
          printf("O valor a ser pago por essa resistencia:%.2f.\n",desconto);
 
-
-
-
-        
-
-
-
-
-
-
+     return 0;
     }

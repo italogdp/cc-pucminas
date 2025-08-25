@@ -16,4 +16,6 @@
     printf("O perimetro eh:%d\n", perimetro);
     printf("A area eh:%d\n", area);
     printf("A diagonal eh:%d\n", diagonal);
+
+return 0;
 }
